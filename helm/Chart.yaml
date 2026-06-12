@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-payment-order
+description: "BIAN Service Domain: Payment Order (Process pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Islamic Cards and Payments"
+  isb/asset-type: "Payment Order"
+  isb/control-record: "Payment Order Procedure"
